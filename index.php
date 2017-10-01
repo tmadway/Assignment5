@@ -13,9 +13,9 @@
 
 	<body>
 
-		<nav class="light-blue lighten-1">
+		<nav class="light-blue">
 			<ul class="right hide-on-med-and-down">
-				<li><a href="index.php" class="is-current">Homepage</a></li>
+				<li><a href="index.php">Homepage</a></li>
 				<li><a href="hillarychun.php">Hillary Chun</a></li>
 				<li><a href="rosecricchio.php">Rose Cricchio</a></li>
 				<li><a href="torimadway.php">Tori Madway</a></li>
@@ -23,7 +23,7 @@
 		</nav>
 
 		<div class="section no-pad-bot" id="index-banner">
-			<h1 class="header center orange-text">OVERVIEW</h1>
+			<h1 class="header center red-text">OVERVIEW</h1>
 		</div>
 		
 
@@ -63,7 +63,7 @@
 		</div>
 	</div>
 
-		<footer class="page-footer orange">
+		<footer class="page-footer">
 			<div class="container">
       			<div class="row">
         			<div class="col l6 s12">

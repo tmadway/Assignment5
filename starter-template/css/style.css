@@ -13,5 +13,30 @@
 	font-size: inherit;
 }
 
+.page-footer{
+	background-color:#B7E0F3;
+}
 
+.light-blue{
+	background-color:#B7E0F3 !important;
+}
+
+.red-text{
+	color:#BE0503 !important;
+}
+
+h2{
+	color:#FEAC00;
+	font-size:3.2rem;
+}
+
+h3{
+	color:#FEAC00;
+	font-size:2.5rem;
+
+}
+
+a:hover{
+	color:#ADD2E4;
+}
 
