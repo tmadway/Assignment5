@@ -89,9 +89,29 @@
 				</div>
 			</div>
 
-		<footer>
-			<div>CSC 174: Group Project #1</div>
-			<div>©2017 Rose Cricchio</div>
+		<footer class="page-footer orange">
+			<div class="container">
+      			<div class="row">
+        			<div class="col l6 s12">
+          				<h5 class="white-text">Bio</h5>
+          					<p class="grey-text text-lighten-4">We are college students attending UR and taking CSC 174: Advanced Front End Web Development.</p>
+          				</div>
+
+          				<div class="col l3 s12">
+          					<h5 class="white-text">Contact Me!</h5>
+          						<ul>
+            						<li><a class="white-text" href="#!">rcricchi@u.rochester.edu</a></li>
+          						</ul>
+        				</div>
+          			</div>
+          		</div>
+
+			 <div class="footer-copyright">
+      			<div class="container">
+     			 <div>CSC 174: Group Project #2</div>
+				<div>©2017 Rose Cricchio</div>
+      			</div>
+    		</div>
 		</footer>
 
 		<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
