@@ -34,8 +34,8 @@
 
         		<div class="col s12 m4">
           			<div class="icon-block">
+          				<img src="images/hillary.jpg" alt="Hillary Chun">
 						<h3 class="center">Hillary Chun</h3>
-						<img src="images/hillary.jpg" alt="Hillary Chun">
 						<p class="light">Hillary is a Public Health and Psychology double major and is UR class of '18. She is from Bronx, NY and enjoys photography, cooking, and music.</p>
 						<a href="hillarychun.php">Read more about Hillary</a>
 					</div>
@@ -43,8 +43,8 @@
 
         		<div class="col s12 m4">
           			<div class="icon-block">
+          				<img src="images/rose.jpg" alt="Rose Cricchio">
 						<h3 class="center">Rose Cricchio</h3>
-						<img src="images/rose.jpg" alt="Rose Cricchio">
 						<p class="light">Rose is UR class of '19 and is double majoring in Economics and Computer Science. She is from Anchorage, AK and enjoys dog-spotting, winter and napping.</p>
 						<a href="rosecricchio.php">Read more about Rose</a>
 					</div>
@@ -52,8 +52,8 @@
 			
         		<div class="col s12 m4">
           			<div class="icon-block">
+          				<img src="images/tori.jpg" alt="Tori Madway">
 						<h3 class="center">Tori Madway</h3>
-						<img src="images/tori.jpg" alt="Tori Madway">
 						<p class="light">Tori is currently attending UR after previously attending Vassar College. At UR, she is considering a DMS major and Math minor. She enjoys acrobalancing, homebrewing, and creating things.</p>
 						<a href="torimadway.php">Read more about Tori</a>
 					</div>
