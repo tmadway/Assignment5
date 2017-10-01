@@ -23,7 +23,7 @@
 		</nav>
 
 		<div class="section no-pad-bot" id="index-banner">
-			<h1 class="header center red-text">Hillary Chun</h1>
+			<h1 class="header center red-text">HILLARY CHUN</h1>
 		</div>
 
 		<div class="container">

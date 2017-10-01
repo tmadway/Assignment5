@@ -23,7 +23,7 @@
 		</nav>
 
 		<div class="section no-pad-bot" id="index-banner">
-			<h1 class="header center red-text">Rose Cricchio</h1>
+			<h1 class="header center red-text">ROSE CRICCHIO</h1>
 		</div>
 
 		<div class="container">
