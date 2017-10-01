@@ -3,33 +3,33 @@
 
 	<head>
  		<meta charset="utf-8">
-  		<title>Tori Madway</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>Homepage</title>
+
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+ 		<link href="starter-template/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  		<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 	</head>
 
 	<body>
 
-		<header>
-			<h1>CSC 174: Advanced Front End Web Development</h1>
-		</header>
-
-		<nav class="menu">
-
-			<ul>
+		<nav class="light-blue lighten-1">
+			<ul class="right hide-on-med-and-down">
 				<li><a href="index.php">Homepage</a></li>
 				<li><a href="hillarychun.php">Hillary Chun</a></li>
-				<li><a href="rosecricchio.php">Rose Cricchio</a></li>
-				<li><a href="torimadway.php" class="is-current">Tori Madway</a></li>
+				<li><a href="rosecricchio.php" class="is-current">Rose Cricchio</a></li>
+				<li><a href="torimadway.php">Tori Madway</a></li>
 			</ul>
-
 		</nav>
 
+		<div class="section no-pad-bot" id="index-banner">
+			<h1 class="header center orange-text">Tori Madway</h1>
+		</div>
+
 		<div class="container">
+    		<div class="section">
 
-			<h2>Tori Madway</h2>
-
-			<img src="images/tori.jpg" alt="Tori Madway">
-
-				<h3>About Me</h3>
+				<h2>About Me</h2>
 
 					<ul>
 						<li>Rochester, NY</li>
@@ -40,34 +40,34 @@
 						<li>My body is falling apart</li>
 					</ul>
 
-				<h3>Biography</h3>
+				<h2>Biography</h2>
 
 					<p>I was born in Rochester, NY and graduated from Brighton High School in 2013. I was previously at Vassar College in Poughkeepsie, NY. At VC I was involved in various things(circus, mentoring, tap dance, Jewish stuff, newspaper, etc). I am likely going for a DMS major and math minor.</p>
 
-				<h3>Education & Select Courses</h3>
+				<h2>Education & Select Courses</h2>
 
-					<h4>Computer Science</h4>
+					<h3>Computer Science</h3>
 
 						<ul>
 							<li>Introduction to Web Design</li>
 							<li>Advanced Front End Web Development</li>
 						</ul>
 
-					<h4>Mathematics</h4>
+					<h3>Mathematics</h3>
 
 						<ul>
 							<li>Discrete Mathematics</li>
 							<li>Transition to Higher Math</li>
 						</ul>
 
-					<h4>Other</h4>
+					<h3>Other</h3>
 
 						<ul>
 							<li>Electricity and Magnetism</li>
 							<li>Elementary Modern Hebrew II</li>
 						</ul>
 
-				<h3>Things I Enjoy</h3>
+				<h2>Things I Enjoy</h2>
 
 					<ul>
 						<li>Acrobalancing: partner movement/acrobatics, getting thrown through the air</li>
@@ -75,11 +75,17 @@
 						<li>Homebrewing: honey mead and diy liquers/bitters/infusions</li>
 					</ul>
 
+				</div>
+			</div>
+
 		<footer>
 			<div>CSC 174: Group Project #1</div>
 			<div>©2017 Tori Madway</div>
 		</footer>
 
-		</div>
+		<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  		<script src="js/materialize.js"></script>
+  		<script src="js/init.js"></script>
+
 	</body>
 </html>

@@ -3,35 +3,33 @@
 
 	<head>
 		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<title>Hillary Chun</title>
-		<link rel="stylesheet" href="css/styles.css">
-		<link rel="stylesheet" href="css/navigation.css">
+
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+ 		<link href="starter-template/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  		<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 	</head>
 	
 	<body>
 
-		<header>
-			<h1>CSC 174: Advanced Front End Web Development</h1>
-		</header>
-
-		<nav class="menu">
-
-			<ul>
+		<nav class="light-blue lighten-1">
+			<ul class="right hide-on-med-and-down">
 				<li><a href="index.php">Homepage</a></li>
 				<li><a href="hillarychun.php" class="is-current">Hillary Chun</a></li>
 				<li><a href="rosecricchio.php">Rose Cricchio</a></li>
 				<li><a href="torimadway.php">Tori Madway</a></li>
 			</ul>
-
 		</nav>
 
+		<div class="section no-pad-bot" id="index-banner">
+			<h1 class="header center orange-text">Hillary Chun</h1>
+		</div>
+
 		<div class="container">
+    		<div class="section">
 
-			<h2>Hillary Chun</h2>
-
-			<img src="images/hillary.jpg" alt="Hillary Chun">
-
-				<h3>About Me</h3>
+				<h2>About Me</h2>
 
 					<ul>
 						<li>Korean-American</li>
@@ -43,12 +41,12 @@
 						<li>Growing interest in computer science</li>
 					</ul>
 
-				<h3>Biography</h3>
+				<h2>Biography</h2>
 					<p>I am 22 years old from Bronx, NY, currently in my last year at the University of Rochester. I was only majoring in Public Health: Health, Behavior and Society (HBS) until I decided to declare my major in Psychology. This led me to staying in Rochester for one more year since I was originally a Class of 2017 member. I changed my natural science cluster from a focus on math to focusing on computer science, the web design series, after taking the intro class last year. I have also completed my humanities cluster in studio art, taking Introduction to Photography, Introduction to Sculpture and Advanced Sculpture.</p> 
 
-				<h3>Education & Select Courses</h3>
+				<h2>Education & Select Courses</h2>
 
-					<h4>Public Health: Health, Behavior, & Society</h4>
+					<h3>Public Health: Health, Behavior, & Society</h3>
 
 						<ul>
 							<li>Medical Anthropology</li>
@@ -57,7 +55,7 @@
 							<li>Introduction to the U.S Health System</li>
 						</ul>
 
-					<h4>Psychology</h4>
+					<h3>Psychology</h3>
 
 						<ul>
 							<li>Behavioral Medicine</li>
@@ -66,7 +64,7 @@
 							<li>Foundations of Cognitive Science</li>
 						</ul>
 
-					<h4>Other</h4>
+					<h3>Other</h3>
 
 						<ul>
 							<li>Introduction to German</li>
@@ -77,7 +75,7 @@
 							<li>Introduction to Web Design</li>
 						</ul>
 
-			<h3>Things I Enjoy</h3>
+			<h2>Things I Enjoy</h2>
 
 				<ul>
 					<li>Photography/Filming</li>
@@ -87,11 +85,17 @@
 					<li>Cracking people's backs</li>
 				</ul>
 
+			</div>
+		</div>
+
 		<footer>
 			<div>CSC 174: Group Project #1</div>
 			<div>©2017 Hillary Chun</div>
 		</footer>
 
-		</div>
+		<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  		<script src="js/materialize.js"></script>
+  		<script src="js/init.js"></script>
+
 	</body>
 </html>
