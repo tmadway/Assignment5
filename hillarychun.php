@@ -29,6 +29,8 @@
 
 			<h2>Hillary Chun</h2>
 
+			<img src="images/hillary.jpg" alt="Hillary Chun">
+
 				<h3>About Me</h3>
 
 					<ul>

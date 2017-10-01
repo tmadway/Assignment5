@@ -4,8 +4,6 @@
 	<head>
  		<meta charset="utf-8">
   		<title>Tori Madway</title>
-  		<link rel="stylesheet" href="css/styles.css">
-		<link rel="stylesheet" href="css/navigation.css">
 	</head>
 
 	<body>
@@ -28,6 +26,8 @@
 		<div class="container">
 
 			<h2>Tori Madway</h2>
+
+			<img src="images/tori.jpg" alt="Tori Madway">
 
 				<h3>About Me</h3>
 
