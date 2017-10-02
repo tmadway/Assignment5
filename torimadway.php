@@ -15,12 +15,20 @@
 
 		<nav class="light-blue">
 			<div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo"><img src="images/ur.png" class="logo" alt="logo"></a>
+				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 				<ul class="right hide-on-med-and-down">
 					<li><a href="index.php">Homepage</a></li>
 					<li><a href="hillarychun.php">Hillary Chun</a></li>
 					<li><a href="rosecricchio.php">Rose Cricchio</a></li>
 					<li><a href="torimadway.php">Tori Madway</a></li>
 				</ul>
+
+				<ul class="side-nav" id="mobile-demo">
+        			<li><a href="index.php">Homepage</a></li>
+					<li><a href="hillarychun.php">Hillary Chun</a></li>
+					<li><a href="rosecricchio.php">Rose Cricchio</a></li>
+					<li><a href="torimadway.php">Tori Madway</a></li>
+      			</ul>
 			</div>
 		</nav>
 
@@ -110,8 +118,9 @@
 		</footer>
 
 		<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  		<script src="js/materialize.js"></script>
-  		<script src="js/init.js"></script>
+  		<script src="starter-template/js/materialize.js"></script>
+  		<script src="starter-template/js/init.js"></script>
+  		<script>$(".button-collapse").sideNav();</script>
 
 	</body>
 </html>
