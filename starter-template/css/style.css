@@ -19,6 +19,16 @@
 
 .light-blue{
 	background-color:#B7E0F3 !important;
+	
+}
+
+.light-blue li{
+	list-style-type:none !important;
+}
+
+ul li{
+	list-style-type:circle !important;
+	margin-left:20px;
 }
 
 .red-text{
@@ -26,7 +36,7 @@
 }
 
 .logo{
-	padding-top: 15px !important;
+	padding-top: 15px;
 }
 
 figure{
@@ -42,7 +52,7 @@ h2{
 
 h3{
 	color:#FEAC00;
-	font-size:2.5rem;
+	font-size:2.2rem;
 
 }
 
