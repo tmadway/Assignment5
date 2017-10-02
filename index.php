@@ -7,24 +7,26 @@
 		<title>Homepage</title>
 
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
- 		<link href="starter-template/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  		<link href="starter-template/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+ 		<link href="starter-template/css/materialize.css" type="text/css" rel="stylesheet" media="screen"/>
+  		<link href="starter-template/css/style.css" type="text/css" rel="stylesheet" media="screen"/>
 	</head>
 
 	<body>
 
 		<nav class="light-blue">
-			<ul class="right hide-on-med-and-down">
-				<li><a href="index.php">Homepage</a></li>
-				<li><a href="hillarychun.php">Hillary Chun</a></li>
-				<li><a href="rosecricchio.php">Rose Cricchio</a></li>
-				<li><a href="torimadway.php">Tori Madway</a></li>
-			</ul>
+			<div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo"><img src="images/ur.png" class="logo" alt="logo"></a>
+				<ul class="right hide-on-med-and-down">
+					<li><a href="index.php">Homepage</a></li>
+					<li><a href="hillarychun.php">Hillary Chun</a></li>
+					<li><a href="rosecricchio.php">Rose Cricchio</a></li>
+					<li><a href="torimadway.php">Tori Madway</a></li>
+				</ul>
+			</div>
 		</nav>
 
-		<div class="section no-pad-bot" id="index-banner">
+		<header class="section no-pad-bot" id="index-banner">
 			<h1 class="header center red-text">OVERVIEW</h1>
-		</div>
+		</header>
 		
 
 		 <div class="container">

@@ -25,6 +25,16 @@
 	color:#BE0503 !important;
 }
 
+.logo{
+	padding-top: 15px !important;
+}
+
+figure{
+	float:right;
+	margin-top:0px;
+	margin-right: 100px;
+}
+
 h2{
 	color:#FEAC00;
 	font-size:3.2rem;
