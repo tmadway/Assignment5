@@ -2,7 +2,7 @@
 <html lang="en">
 
 	<head>
-		<link type="text/css" rel="stylesheet" href="css/overrides.css"  media="screen,projection"/>
+		<link type="text/css" rel="stylesheet" href="css/styles.css"  media="screen,projection"/>
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       		<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
 		
@@ -10,9 +10,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<title>Homepage</title>
 
-		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
- 		<link href="starter-template/css/materialize.css" type="text/css" rel="stylesheet" media="screen"/>
-  		<link href="starter-template/css/style.css" type="text/css" rel="stylesheet" media="screen"/>
 	</head>
 
 	<body>
