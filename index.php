@@ -26,9 +26,8 @@
 					<li><a href="hillarychun.php">Hillary Chun</a></li>
 					<li><a href="rosecricchio.php">Rose Cricchio</a></li>
 					<li><a href="torimadway.php">Tori Madway</a></li>
-      			</ul>
-
-			</div>
+      				</ul>
+			</div><--.
 		</nav>
 
 		<header class="section no-pad-bot" id="index-banner">
@@ -36,10 +35,10 @@
 		</header>
 		
 
-		 <div class="container">
+		<div class="container">
     		<div class="section">
 
-			 <div class="row">
+			<div class="row">
 
         		<div class="col s12 m4">
           			<div class="icon-block">
