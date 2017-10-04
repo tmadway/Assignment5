@@ -27,7 +27,6 @@
 					<li><a href="rosecricchio.php">Rose Cricchio</a></li>
 					<li><a href="torimadway.php">Tori Madway</a></li>
       			</ul>
-
 			</div>
 		</nav>
 
@@ -35,7 +34,6 @@
 			<h1 class="header center red-text">OVERVIEW</h1>
 		</header>
 		
-
 		 <div class="container">
     		<div class="section">
 
@@ -65,7 +63,6 @@
 						<p class="light">Tori is currently attending UR after previously attending Vassar College. At UR, she is considering a DMS major and Math minor. She enjoys acrobalancing, homebrewing, and creating things.</p>
 					</div>
 				</div>
-			
 			</div>
 		</div>
 	</div>
