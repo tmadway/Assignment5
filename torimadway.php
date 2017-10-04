@@ -96,7 +96,7 @@
           				<div class="col l3 s12 left">
           					<h5 class="white-text">Contact Me!</h5>
           						<ul>
-            						<li><a class="white-text" href="#!">tmadway@gmail.com</a></li>
+            						<li>tmadway@gmail.com</li>
           						</ul>
         				</div>
           			</div>

@@ -73,9 +73,9 @@
           				<div class="col l3 s12 left">
           					<h5 class="white-text">Contact Us!</h5>
           						<ul>
-            						<li><a class="white-text" href="#!">rcricchi@u.rochester.edu</a></li>
-            						<li><a class="white-text" href="#!">hchun4@ur.rochester.edu</a></li>
-            						<li><a class="white-text" href="#!">tmadway@gmail.com</a></li>
+            						<li>rcricchi@u.rochester.edu</li>
+            						<li>hchun4@ur.rochester.edu</li>
+            						<li>tmadway@gmail.com</li>
           						</ul>
         				</div>
           			</div>

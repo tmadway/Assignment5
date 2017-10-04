@@ -38,7 +38,7 @@
     		<div class="section">
 				
 				<figure>
-				<img src="images/hillary.jpg" alt="Hillary Chun">
+					<img src="images/hillary.jpg" alt="Hillary Chun">
 				</figure>
 
 				<h2>About Me</h2>
@@ -105,7 +105,7 @@
           				<div class="col l3 s12 left">
           					<h5 class="white-text">Contact Me!</h5>
           						<ul>
-            						<li><a class="white-text" href="#!">hchun4@ur.rochester.edu</a></li>
+            						<li>hchun4@ur.rochester.edu</li>
           						</ul>
         				</div>
           			</div>
