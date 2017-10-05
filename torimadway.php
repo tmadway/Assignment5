@@ -1,5 +1,5 @@
 <?php 
-	$currentTitle = "TORI MADWAY";
+	$currentTitle = "Tori Madway";
 	include "inc/top-part.inc";
  ?>
 
