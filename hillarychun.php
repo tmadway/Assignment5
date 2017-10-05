@@ -22,6 +22,7 @@
 					</ul>
 
 				<h2>Biography</h2>
+			
 					<p>I am 22 years old from Bronx, NY, currently in my last year at the University of Rochester. I was only majoring in Public Health: Health, Behavior and Society (HBS) until I decided to declare my major in Psychology. This led me to staying in Rochester for one more year since I was originally a Class of 2017 member. I changed my natural science cluster from a focus on math to focusing on computer science, the web design series, after taking the intro class last year. I have also completed my humanities cluster in studio art, taking Introduction to Photography, Introduction to Sculpture and Advanced Sculpture.</p> 
 
 				<h2>Education & Select Courses</h2>
