@@ -1,7 +1,7 @@
 <footer class="page-footer">
 	<div class="container">
 		<div class="row">
-			<div class="col l3 s12 left">
+			<div class="col l3 s12">
 				<h5 class="white-text">Contact Us!</h5>
 					<ul>
 						<li>hchun4@u.rochester.edu</li>
