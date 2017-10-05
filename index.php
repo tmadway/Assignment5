@@ -1,5 +1,5 @@
 <?php 
-	$currentTitle = "OVERVIEW";
+	$currentTitle = "Student Portfolios: Team San Francisco";
 	include "inc/top-part.inc";
  ?>
 		
