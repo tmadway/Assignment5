@@ -1,5 +1,5 @@
 <?php 
-	$currentTitle = "ROSE CRICCHIO";
+	$currentTitle = "Rose Cricchio";
 	include "inc/top-part.inc";
  ?>
 
@@ -20,6 +20,7 @@
 					</ul>
 
 				<h2>Biography</h2>
+			
 					<p>I was born in Monterey, CA and have since lived primarily in Olympia, WA and Anchorage, AK. I graduated from West Anchorage High School in 2015 and am attending the University of Rochester with an anticipated graduation date of 2019. I'm currently working on majors in Economics and Computer Science with a potential cluster or potential minor in Japanese Language. This Fall 2017 semester I am TA'ing a Web Page Design and Development course, serving as Events Coordinator for Engineers Without Borders, working as a Team Leader for the LEAP Program under RCCL as well as working in the Financial Aid Office.</p>
 
 				<h2>Education & Select Courses</h2>
